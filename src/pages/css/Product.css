@@ -1,0 +1,7 @@
+.min-width-500{
+    min-width: 500px;
+}
+@import url("https://code.jquery.com/jquery-3.5.1.js");
+@import url("https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js");
+@import url("https://cdn.datatables.net/1.11.3/js/dataTables.bootstrap5.min.js");
+@import url("https://cdn.datatables.net/fixedcolumns/4.0.1/js/dataTables.fixedColumns.min.js");
